@@ -1,0 +1,29 @@
+.forecastDetail {
+    float: right;
+    width: 30rem;
+    margin-right: 10rem;
+    height: 15rem;
+    margin-top: -27rem;
+}
+
+.description{
+    float: left;
+    width: 40%;
+    text-decoration-line: underline;
+    text-align: initial;
+    padding-right: 2px;
+}
+
+.dueDate{
+    float: left;
+    width: 20%;
+    border: 1px black solid;
+    color: red;
+    height: 5rem;
+    padding-top: 1rem;
+}
+
+.cardImage{
+    height: 5rem;
+    width: 10rem;
+}

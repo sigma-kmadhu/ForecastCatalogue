@@ -1,0 +1,14 @@
+.forecast {
+    width: 20rem;
+    margin-bottom: 2rem;
+    margin-left: 10rem;
+    margin-top: 4rem;
+}
+
+.card-footer {
+    background-color: #40e0d0
+}
+
+.card-header {
+    background-color: #0abab5
+}
